@@ -1,1 +1,0 @@
-# elliotali.com

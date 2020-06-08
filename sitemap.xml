@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://elliotali.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://elliotali.com/</loc>
+</url>
+<url>
+<loc>https://elliotali.com/contact-me.html</loc>
+<lastmod>2020-06-08T15:52:17+10:00</lastmod>
+</url>
+<url>
+<loc>https://elliotali.com/espresso-cream-soda.html</loc>
+<lastmod>2020-06-08T15:26:37+10:00</lastmod>
+</url>
+<url>
+<loc>https://elliotali.com/project-</loc>
+<lastmod>2020-06-08T15:29:11+10:00</lastmod>
+<image:image>
+<image:loc>https://elliotali.com/media/posts/2/code.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elliotali.com/winter-steaks.html</loc>
+<lastmod>2020-06-08T15:35:33+10:00</lastmod>
+<image:image>
+<image:loc>https://elliotali.com/media/posts/4/steak-cover.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elliotali.com/working-abroad-as-a-migrant.html</loc>
+<lastmod>2020-06-08T15:35:19+10:00</lastmod>
+<image:image>
+<image:loc>https://elliotali.com/media/posts/5/migrant-cover.jpg</image:loc>
+<image:title><![CDATA[Globe]]></image:title>
+</image:image>
+</url>
+</urlset>

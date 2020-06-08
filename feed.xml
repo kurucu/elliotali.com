@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Elliot&#x27;s Blog</title>
+    <link href="https://elliotali.com/feed.xml" rel="self" />
+    <link href="https://elliotali.com" />
+    <updated>2020-06-08T15:56:19+10:00</updated>
+    <author>
+        <name>Elliot</name>
+    </author>
+    <id>https://elliotali.com</id>
+
+    <entry>
+        <title>Project Index</title>
+        <author>
+            <name>Elliot</name>
+        </author>
+        <link href="https://elliotali.com/project-index.html"/>
+        <id>https://elliotali.com/project-index.html</id>
+            <category term="Projects"/>
+            <category term="Code"/>
+
+        <updated>2020-06-08T15:29:11+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://elliotali.com/media/posts/2/code.jpg" alt="" />
+                    Today I lost track of the projects I was working on and got decision paralysis as a result, so I thought I'd create this little helper.It provides a list of the websites being worked on, based on some config, and displays them prettily for use&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://elliotali.com/media/posts/2/code.jpg" alt="" />
+                Today I lost track of the projects I was working on and got decision paralysis as a result, so I thought I'd create this little helper.
+
+It provides a list of the websites being worked on, based on some config, and displays them prettily for use as a default tab/quick bookmark in your web browser.
+
+There's probably a million out there, but I thought I'd open source it anyway.
+
+Feel free to check it out at <a href="https://github.com/kurucu/project-index"><i class="mdi mdi-github-circle"></i> GitHub</a>.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Working Abroad as a Migrant</title>
+        <author>
+            <name>Elliot</name>
+        </author>
+        <link href="https://elliotali.com/working-abroad-as-a-migrant.html"/>
+        <id>https://elliotali.com/working-abroad-as-a-migrant.html</id>
+            <category term="Travel"/>
+            <category term="Careers"/>
+
+        <updated>2020-06-08T15:35:19+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://elliotali.com/media/posts/5/migrant-cover.jpg" alt="Globe" />
+                    Born a Briton, I have lived and worked in France and Australia as a migrant worker. I thought I’d share the stories with you, in terms of the practicalities and the experiences.So how did I get through the net? In both cases I leveraged a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://elliotali.com/media/posts/5/migrant-cover.jpg" alt="Globe" />
+                Born a Briton, I have lived and worked in France and Australia as a migrant worker. I thought I’d share the stories with you, in terms of the practicalities and the experiences.
+
+So how did I get through the net? In both cases I leveraged a degree in Engineering, recognised by the Washington Accord, and relevant skilled experience, gained in respected businesses and fields. Other than those, France and Australia had different requirements. Whilst it’s a short list, I appreciate that this is a privileged position to start from.
+
+#### Overview
+
+I moved to France in 2008 for two years, then able to take advantage of Britain’s membership of the European Union. The company I worked for bought goods from itself in Bordeaux, and wanted to embed staff there who understood the UK’s clients and processes. They were able to adjust my contract in Britain to enable this, although there would have been no friction (other than internal policy) to offering me a French contract. There were some specifics to working in France, but all in all I was able to catch a plane, rent a property and start working.
+
+The specifics are covered in detail in another post; but in summary I needed healthcare cover after six months (provided by the firm) and had to swap my car for a French one (the alternative being to demonstrate that my British car was being maintained, insured etc in Britain, which would have meant driving it back and forth and respecting maximum terms outside of Britain - difficult, given I lived in Southern France). The company worked in English (as an international engineering firm), which made my life easier, but I received 30 hours of French lessons and otherwise dived into the deep-end with respect to speaking the local language. Being inside the EU made this all very easy.
+
+I moved to Melbourne, Australia in the summer of 2018, and haven’t yet decided on a return date (or whether there will be one). Moving to Australia as a Brit means using their points-based immigration system. I was offered a job, on the condition of a visa, and then had to gain a visa that allowed work. In addition to a relevant degree and experience, Australia required detailed proof of my whereabouts for ten years, criminal records checks, English language performance (covered by virtue of my education), proof of medical insurance and a few other details. They also needed the sponsoring company to prove that they had already tried and failed to employ someone like me.
+
+They then issued a temporary visa (Sub Class 457, now the TSS, for those interested) which allows me to work and live in Australia for an initial four years. After this was issued, I could catch a plane, rent a home and start work.
+
+Outside of that, in both cases, I could pretty much crack on like I was a local.
+
+#### What are the differences?
+
+Putting the visa to one side, I’d say that I found France more bureaucratic than Australia (quelle surprise!). In terms of the basics (setting up a bank account, finalising a rental contract, getting a mobile phone), they were all easier in Australia. A little of this was due to the language barriers in France, but honestly not much. I was able to establish a bank account with one of the “big four” and transfer money to it with an online form and a brief exchange of e-mails in Australia. By comparison, gaining a French bank account, despite having a dedicated British arm, was a long and mechanical process.
+
+With a debit card in hand, and being able to leave the house, I found both countries warm and welcoming. I found no resistance with anything material due to my status as an immigrant, and have found it easy to make friends and grow friendship groups in both countries. The only minor racism came in France, where one colleague couldn’t even cross paths with me — he would go out of his way to find a different route if he saw me coming. The others knew about it, but shrugged it off as _his way_. Remember that France is a highly unionised country, where I could be seen as a threat to employment and in general the Australians and French regard Brits differently. In all honestly, and whilst people might view this differently, it didn’t impact my experience there at all.
+
+The French involved me in their lives like they’d known me for years; we played badminton after work in the winter, went to the beach in the summer, got invited on personal ski trips, work ski trips, went on drunken weekend treks in the Pyrenees... Frankly, it’s an awesome place filled with healthy and awesome people. It’s also modern, tidy, easy to get around, and has a progressive and fair approach to law.
+
+I’ve not been in Australia long enough to make a fair comparison yet (I will come back and let you know how it goes), but it’s been a similar experience so far — everyone is warm, welcoming and ready to hang out.
+
+Melbourne was born out of migrants wanting to improve their lives, and Melbourne makes this a virtue. New migrants are welcomed to a club, rather than treated like an interesting foreigner. That’s not to say that Bordeaux was any less friendly than Melbourne, but there’s definitely a different tone. The Australians who consider themselves natural citizens cannot wait to show you around, pick out the highlights and tell you about their culture. So far, it’s been amazing too. They are an outgoing bunch who love sport (more to watch than play, it seems), very many have gym memberships or frequently exercise (it’s hard not to in such a beautiful climate). Like the Brits, they love their fast food and over-indulgent alcohol intake. The city is competitively modern, with huge amounts of investment leading to great architecture and rapidly expanding buildings and transport system. The countryside expands for MILES (sorry KMs) and is beautiful and interesting. In general, Australia is a modern society not unlike the European one, but with much greater diversity.
+
+#### Interested yourself?
+
+If you’re looking to migrate yourself, I've tried to cover the important areas below.
+
+---
+
+### The Basics
+
+I think the same basics apply in each situation. So I’ll develop this list, over time, to give you an idea of what to prepare for.
+
+#### The Right to Reside / Work and Visas
+
+First of all, you’d need the **right to reside** in the new country for a suitable period of time. In most cases, you’d need the **right to wor**k as well. This will highly depend on your circumstances, but can be easily researched. Europeans can move around Europe to live and work freely. New Zealanders and Australians can do likewise, on a mutual basis. I’m not too aware of the rules, outside of that, but you’ll probably need a visa. Choose a visa that suits you, and then carefully read its requirements and conditions. The ease of getting a visa varies highly, and depends on your status as well as the country to which you're applying.
+
+Once you’ve done that, it gets easier.
+
+#### Receiving and Spending Money
+
+You’ll need a **bank account**, so that you can get paid and so that you can pay your rent. Ideally, given you’re somewhere probably on your own, you’ll get a **credit card** too. There’s a whole wave of great new banks who make international earning and spending cheap and easy. In the UK, check out Revolut, Monzo, Starling and Atom Bank. HSBC allows you to set up accounts across the world, quite easily; and Dutch bank ING has a really good offering in lots of places. If you end up with local accounts in two different countries, you’ll need to set up a money transfer account with someone like OFX.
+
+#### Healthcare
+
+You will probably want **health cover**, too. The need varies, so look into it carefully. Travel insurance covers you generally until you reside (i.e. land) in your new home state, so isn’t enough. Reciprocal agreements and free offerings are generally only for emergency and life or death treatment. So, to visit a doctor (GP), or have an X-Ray, or sort out your filling, you’ll probably need something better. Look for health insurance, which may need to recognise your migrant status, in some cases (like Australia).
+
+After making sure you’re healthy and can pay for things, you’re away. You’ll want to look at transport next, and communications.
+
+#### Accomodation
+
+Where to live? How to live? AirBnB / short term find your feet.
+
+#### Getting Around
+
+**Transport** really does depend on where you’re coming from and going to. You may be able to take your car; this may be impractical. There may be great public transport or an abundance of Uber drivers, you may depend on your own vehicle. Just make sure you have a good idea of the lay of the land, how much time is taken to get around (distance often doesn’t tell you much), how much it costs and how you pay for it. You might need cash!
+
+If you do plan to drive, then do some quick route planning. I’ve found that the relationship between distance and speed can vary heavily between cities. Outside of London, 19 miles would take about 25 minutes, even on the backroads. Outside of Melbourne, 19 miles can take 60 minutes, even (especially!) if you’re using the big freeways. That said, driving through Melbourne centre is much faster than driving an equivalent journey within London. Don’t make assumptions, making the viewing for your favourite flat may depend on it.
+
+#### Being in Touch
+
+Just like transport, **communications** are important for health, safety, work and mental well-being. Like transport, do your research beforehand. Some mobile operators let you roam cheaply (Three, in the UK, a notable example). But nobody in your new location is going to want to call a foreign mobile to follow up on accommodation queries or deliver your pizza. Plan ahead and get a cheap mobile, if necessary. I was able to sign up to and receive the sim card for an Australian mobile operator within five days. Get your friends on an internet-based system (like WhatsApp, Messenger, Telegram, Skype) so that you can stay in touch after changing number, or when you only have WiFi.
+
+Arriving in Australia, I signed up to a local Skype number for a month (it was about $5) so that I could put down a number on forms and people could call me.
+
+#### Language
+
+If you speak English, you’re probably going to be OK. You’ll get by in Europe, Japan, North American, Australasia and the built up areas of China, Africa, Russia and India. But, you’ll still want to learn as much of the local language as you can before going (even if it’s a few phrases, think 80/20 rule!) and then **join in**. Try out Duolingo, an app that helps you to learn a language. Even if you’re struggling, speak the local language first and then default to English when you can’t make it. Encourage the others to stay in the local language too, rather than “help you” in English. I learnt to participate in most French conversations this way, with only 30 hours of support to start (I didn’t learn French at school, so 30 hours was pretty basic). I learnt the word for “pain” at the dentist, and I won’t forget it.
+
+Practice makes perfect. I’ve forgotten French quickly, having left, by not practising it frequently enough. Be unafraid to do so, because it really is the only barrier.
+
+#### Taxation
+
+Registering and paying tax. How and when? I'll be back to fill in the details soon!
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Winter Steaks</title>
+        <author>
+            <name>Elliot</name>
+        </author>
+        <link href="https://elliotali.com/winter-steaks.html"/>
+        <id>https://elliotali.com/winter-steaks.html</id>
+            <category term="Food"/>
+
+        <updated>2020-06-08T15:35:33+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://elliotali.com/media/posts/4/steak-cover.jpg" alt="" />
+                    ### Ingredients* One large rib-eye steak* One yellow and one red bell pepper (seeded and sliced)* Two tins of butter beans (drained and rinsed)* Half a large onion (diced)* Half a small, white cabbage (diced)* One teaspoon of paprika* One teaspoon of English mustard* Salt,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://elliotali.com/media/posts/4/steak-cover.jpg" alt="" />
+                ### Ingredients
+
+* One large rib-eye steak
+* One yellow and one red bell pepper (seeded and sliced)
+* Two tins of butter beans (drained and rinsed)
+* Half a large onion (diced)
+* Half a small, white cabbage (diced)
+* One teaspoon of paprika
+* One teaspoon of English mustard
+* Salt, pepper and olive oil
+
+### Method
+
+Put a large saucepan over a medium heat, and add a tablespoon of olive oil, the cabbage, onion and paprika. Gently sauté until soft and coloured. Then add the butter beans and mustard, and mash until creamy. Leave the mash in the pan, with the heat off.
+
+Meanwhile, put a large frying pan over a hot flame and throw in the peppers. Start to colour these, and add the steak (cut into two pieces) into empty areas of the pan. Stir the peppers from time to time, and turn the steak, cooking to your liking. Medium rare / rare is good with a well-seasoned rib-eye steak.
+
+Serve with a quarter of the mash on each of two plates, a quarter of the peppers on those and half a steak perched on top.
+
+The remaining peppers and mash can go in lunchboxes for the next day, along with some cold cuts to be heated up at work.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Espresso Cream Soda</title>
+        <author>
+            <name>Elliot</name>
+        </author>
+        <link href="https://elliotali.com/espresso-cream-soda.html"/>
+        <id>https://elliotali.com/espresso-cream-soda.html</id>
+            <category term="Food"/>
+
+        <updated>2020-06-08T15:26:37+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Here’s what you need to know about my new creation: espresso cream-soda. Don’t make it, don’t drink it.What was supposed to be a fun, fizzy and refreshingly cold coffee drink was in fact more like taking a latte and then putting it through a SodaStream.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Here’s what you need to know about my new creation: espresso cream-soda. Don’t make it, don’t drink it.
+
+What was supposed to be a fun, fizzy and refreshingly cold coffee drink was in fact more like taking a latte and then putting it through a SodaStream. Disgusting and a waste of cream soda. If you do try, remember to put the espresso in first otherwise you make a brown cream soda bomb, which takes ages to clear up. Not that I’d be so stupid.
+            ]]>
+        </content>
+    </entry>
+</feed>
